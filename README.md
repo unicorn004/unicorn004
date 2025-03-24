@@ -1,6 +1,6 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center;" align="bottom" > Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+<h1 style="display: flex; justify-content: space-between; align-items: center;" align="bottom" > Hi there! <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> --> 
   <img width="72%"/>
-<img height="24px" align="center" align="right" src="https://komarev.com/ghpvc/?username=unicorn004&label=Visitors" alt="Visitors"/>
+<!-- <img height="24px" align="center" align="right" src="https://komarev.com/ghpvc/?username=unicorn004&label=Visitors" alt="Visitors"/> -->
 </h1>
 
 <div class="introduction">
